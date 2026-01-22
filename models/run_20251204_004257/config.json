@@ -1,0 +1,22 @@
+{
+  "train_dir": "train",
+  "valid_dir": "validation",
+  "langs": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "pt",
+    "ro",
+    "zh"
+  ],
+  "epochs": 30,
+  "batch": 16,
+  "lr": 0.0003,
+  "max_files": null,
+  "runname": null,
+  "workers": 4,
+  "aug": false
+}
